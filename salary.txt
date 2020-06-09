@@ -1,0 +1,4 @@
+izhar,100
+shery,200
+ahmed,300
+umair,400

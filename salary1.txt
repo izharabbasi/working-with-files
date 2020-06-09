@@ -1,0 +1,19 @@
+izhar and salary is 100
+shery and salary is 200
+ahmed and salary is 300
+umair and salary is 400izhar and salary is 100
+shery and salary is 200
+ahmed and salary is 300
+umair and salary is 400izhar and salary is 100
+shery and salary is 200
+ahmed and salary is 300
+umair and salary is 400izhar and salary is 100
+/nshery and salary is 200
+/nahmed and salary is 300
+/numair and salary is 400/nizhar and salary is 100
+
+shery and salary is 200
+
+ahmed and salary is 300
+
+umair and salary is 400
